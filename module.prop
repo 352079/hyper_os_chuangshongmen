@@ -1,0 +1,7 @@
+id=hyperos_chuangsongmen
+name=通用版澎湃OS传送门补丁
+version=1.0.0
+versionCode=1
+author=小雪梨的水真甜
+description=”参照華之人大佬写的通用版补丁”
+minMagisk=1700
